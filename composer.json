@@ -1,5 +1,8 @@
 {
-    "name": "zendframework/zend-feed",
+    "name": "zendframework@iglue/zend-feed",
+    "replace": {
+        "zendframework/zend-feed": "2.9.0"
+    },
     "description": "provides functionality for consuming RSS and Atom feeds",
     "license": "BSD-3-Clause",
     "keywords": [
